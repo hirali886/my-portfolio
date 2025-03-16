@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        
+        <h1> <b> welcome to my Portfolio </b></h1>
+        <h1>Hirali Ranavaya</h1>
+        <p>Web Developer | HTML & CSS Enthusiast</p>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="#about">About</a></li>
+            <li><a href="#skills">Skills</a></li>
+            <li><a href="#projects">Projects</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+    </nav>
+
+    <section id="about">
+        <section class="profile-section">
+            <div class="profile-container">
+                
+                <h2>Hirali Ranavaya</h2>
+                <p>Bachelor of Computer Applications (BCA)</p>
+            </div>
+        </section>
+        
+        <section id="about">
+            <h2>About Me</h2>
+            <p>
+                Hi! I am a second-semester BCA student at GSFC University, Vadodara, 
+                passionate about web development. I have a strong understanding of HTML and CSS 
+                and love creating clean, responsive web designs.
+            </p>
+            <p>
+                My journey in web development started with an interest in designing 
+                visually appealing and user-friendly interfaces. I enjoy experimenting with new styles, 
+                layouts, and color schemes to make websites stand out.
+            </p>
+            <p>
+                Apart from coding, I love dancing and exploring creative projects. 
+                I am always eager to learn and enhance my skills in web technologies.
+            </p>
+        </section>
+    </section>
+
+    <section id="skills">
+        <h2>Skills</h2>
+        <ol="center">
+            <li>HTML</li>
+            <li>CSS</li>
+            <li> c </li>
+            <li>c++</li>
+                       
+        </ol>
+    </section>
+
+    <section id="projects">
+        <h2>Projects</h2>
+        <div class="project">
+            <h3>Portfolio Website</h3>
+            <p>A personal portfolio showcasing my work.</p>
+        </div>
+        
+    </section>
+
+    <section id="contact">
+        <h2>Contact</h2>
+        <p>Email: hiraliranavaya4@gmail.com </p>
+        <p> contact no: 9327210618</p>
+    
+    </section>
+
+    <footer>
+        <p>© 2025 Hirali Ranavaya </p>
+    </footer>
+</body>
+</html>
